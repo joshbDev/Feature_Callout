@@ -1,0 +1,9 @@
+.display{
+	list-style:none;
+	display: inline-flex;
+}
+.display li{
+	width:100px;
+	overflow: hidden;
+	border-left:2px solid;
+}
